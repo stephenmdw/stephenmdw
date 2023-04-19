@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Stephen, a dedicated software engineer drive by the potential of technology to solve real-world challenges and create innovative solutions. With a degree in Neurobiology, Physiology, and Behavior from UC Davis, I decided to make a switch and enrolled in App Academy's full stack program, where I honed my skills in a variety of programming languages and frameworks, including JavaScript, React, Ruby on Rails, and SQL. My passion for learning and staying current with the latest industry trends has allowed me to continuously expand my knowledge and abilities.
+
+Outside of work, I enjoy pursuing a variety of hobbies and interests. I'm an avid- albeit amateur - cook who loves exploring and experiencing new cultures and cuisines. I also enjoy hiking, reading, and spending time with my friends and family.
+
+If you're interested in connecting with me or learning more about my work, please feel free to reach out via LinkedIn or email. I'm always open to new opportunities and collaborations, and would love to hear from you!
+
+
+
