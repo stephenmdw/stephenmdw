@@ -44,3 +44,11 @@ If you're interested in connecting with me or learning more about my work, pleas
   <img align="left" alt="Stephen's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stephenmdw&show_icons=true&hide_border=true" />
 
 </details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Stephen's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenmdw" />
+
+</details>
+
